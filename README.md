@@ -87,7 +87,11 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh8921&bg_color=020617&color=cbd5e1&line=10b981&point=2ee59d&area=true&area_color=064e3b&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub activity graph"/>
+<a href="https://github.com/adarsh8921">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=adarsh8921&hide_border=true&bg_color=020617&title_color=2EE59D&icon_color=2EE59D&text_color=cbd5e1" alt="Coding hours stats" />
+</a>
+
+<p align="center"><em>📊 Check out my live contribution metrics directly on my <a href="https://github.com/adarsh8921">GitHub Profile</a>!</em></p>
 
 </div>
 
@@ -123,13 +127,16 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
+<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
 
 ## <img src="https://img.shields.io/badge/GITHUB%20ACHIEVEMENTS-064e3b?style=flat-square" alt="GitHub achievements"/>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=adarsh8921&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/🏆_GitHub_Developer-Active_Coder-059669?style=for-the-badge&labelColor=020617" alt="GitHub Developer"/>
+<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-065f46?style=for-the-badge&labelColor=020617" alt="Open Source Contributor"/>
+<img src="https://img.shields.io/badge/💡_Problem_Solver-Code_Enthusiast-10b981?style=for-the-badge&labelColor=020617" alt="Problem Solver"/>
+<img src="https://img.shields.io/badge/🔥_Consistent_Coder-Daily_Commits-047857?style=for-the-badge&labelColor=020617" alt="Consistent Coder"/>
 
 </div>
 
