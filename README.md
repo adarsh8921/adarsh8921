@@ -67,15 +67,17 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
 <div align="center">
 
 <a href="https://github.com/adarsh8921">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarsh8921&show_icons=true&hide_border=true&bg_color=020617&title_color=2EE59D&icon_color=2EE59D&text_color=cbd5e1&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh8921&show_icons=true&hide_border=true&bg_color=020617&title_color=2EE59D&icon_color=2EE59D&text_color=cbd5e1&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/adarsh8921">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8921&layout=compact&hide_border=true&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&langs_count=8" alt="Most used programming languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8921&layout=compact&hide_border=true&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&langs_count=8" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=adarsh8921&theme=dark&hide_border=true&background=020617&ring=2EE59D&fire=10B981&currStreakLabel=2EE59D&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub contribution streak"/>
+<a href="https://github.com/adarsh8921">
+  <img width="78%" src="https://streak-stats.demolab.com?user=adarsh8921&theme=dark&hide_border=true&background=020617&ring=2EE59D&fire=10B981&currStreakLabel=2EE59D&sideLabels=cbd5e1&dates=94a3b8&mode=weekly" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
