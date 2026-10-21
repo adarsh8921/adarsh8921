@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
-<!--                 ADARSH KP | GITHUB PROFILE           -->
-<!--                 MIDNIGHT EMERALD THEME                -->
+<!--                   ADARSH KP | GITHUB PROFILE          -->
+<!--                   MIDNIGHT EMERALD THEME              -->
 <!-- ===================================================== -->
 
 <!-- ======================= HERO ======================= -->
@@ -21,6 +21,14 @@
     <br/>
     <b>clean code, useful features, and great user experiences.</b>
   </samp>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-3.5K+-059669?style=for-the-badge&labelColor=020617&logo=github" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/adarsh8921?style=for-the-badge&color=065f46&labelColor=020617&label=FOLLOWERS" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/adarsh8921?style=for-the-badge&color=10b981&labelColor=020617&label=TOTAL%20STARS" alt="GitHub stars"/>
 </p>
 
 <br/>
@@ -187,8 +195,11 @@ I believe in learning through building, solving real problems, and continuously 
 <a href="https://github.com/adarsh8921">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-<a href="https://fascinating-haupia-a87fea.netlify.app/">
+<a href="https://portfolio-jade-nine-76.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-064e3b?style=for-the-badge&logo=googlechrome&logoColor=34d399" alt="Portfolio"/>
+</a>
+<a href="mailto:adarsh8921@gmail.com">
+  <img src="https://img.shields.io/badge/Email-064e3b?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"/>
 </a>
 
 <br/><br/>
