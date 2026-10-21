@@ -81,26 +81,6 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## <img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-064e3b?style=flat-square" alt="Contribution activity"/>
-
-<div align="center">
-
-<a href="https://github.com/adarsh8921">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/card?username=adarsh8921&theme=dark&hide_border=true&background=020617&title_color=2EE59D&text_color=cbd5e1&icon_color=10b981" alt="GitHub Contribution Card"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/adarsh8921">
-  <img src="https://img.shields.io/badge/🔥_View_Live_Activity_On_GitHub-10b981?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
-</a>
-
-</div>
-
----
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-064e3b?style=flat-square" alt="Featured projects"/>
