@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarsh8921&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-3_K+-059669?style=for-the-badge&labelColor=020617&logo=github" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/adarsh8921?style=for-the-badge&color=065f46&labelColor=020617&label=FOLLOWERS" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/adarsh8921?style=for-the-badge&color=10b981&labelColor=020617&label=TOTAL%20STARS" alt="GitHub stars"/>
 </p>
@@ -87,11 +87,17 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
 
 <div align="center">
 
-<a href="https://github.com/adarsh8921">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=adarsh8921&hide_border=true&bg_color=020617&title_color=2EE59D&icon_color=2EE59D&text_color=cbd5e1" alt="Coding hours stats" />
-</a>
+<!-- GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh8921/adarsh8921/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/adarsh8921/adarsh8921/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</picture>
 
-<p align="center"><em>📊 Check out my live contribution metrics directly on my <a href="https://github.com/adarsh8921">GitHub Profile</a>!</em></p>
+<br/>
+
+<a href="https://github.com/adarsh8921">
+  <img src="https://img.shields.io/badge/🔥_View_Live_Activity_On_GitHub-10b981?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
+</a>
 
 </div>
 
