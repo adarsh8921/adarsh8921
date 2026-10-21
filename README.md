@@ -1,151 +1,160 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:064e3b,100:10b981&text=ADARSH%20KP&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20Ideas%20Into%20Reality&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Adarsh KP profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,45:064e3b,100:10b981&text=ADARSH%20KP&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20PHP%20%E2%80%A2%20REACT%20%E2%80%A2%20JAVASCRIPT&descSize=14&descAlignY=60&animation=fadeIn" alt="Adarsh KP developer banner"/>
 
-<p align="center">
-  <a href="https://github.com/adarsh8921">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=2EE59D&center=true&vCenter=true&width=750&lines=PHP+%7C+CodeIgniter+Developer;React+%7C+JavaScript+Enthusiast;Building+Clean+and+Useful+Web+Apps;Always+Learning+Something+New" alt="Typing introduction"/>
-  </a>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=600&lines=Building+useful+web+applications;PHP+%26+CodeIgniter+Developer;Learning+React+%26+Modern+JavaScript;Turning+ideas+into+working+software" alt="Animated developer introduction"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-3_K+-059669?style=for-the-badge&labelColor=020617&logo=github" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/adarsh8921?style=for-the-badge&color=065f46&labelColor=020617&label=FOLLOWERS" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/adarsh8921?style=for-the-badge&color=10b981&labelColor=020617&label=TOTAL%20STARS" alt="GitHub stars"/>
-</p>
+<br/>
+
+<a href="https://github.com/adarsh8921">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile"/>
+</a>
+<a href="https://fascinating-haupia-a87fea.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-10b981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" alt="Portfolio website"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=adarsh8921&style=flat-square&color=059669&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/ABOUT%20ME-064e3b?style=flat-square" alt="About me"/>
+## `01` — About Me
 
-<img align="right" width="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration"/>
 
-Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building practical, high-performance web applications and exploring modern technologies.
+Hi, I'm **Adarsh KP** 👋
 
-- 💻 Experienced in **PHP** and **CodeIgniter** backend architectures.
-- ⚛️ Actively building and scaling applications with **React** and **Redux**.
-- 🌐 Focused on clean, responsive, and modern frontend development.
-- 🗄️ Proficient with **MySQL** databases and RESTful API integrations.
-- 🚀 Committed to writing clean, scalable, and maintainable code.
-- 🤝 Open to exciting freelance projects and collaborative opportunities.
+I'm a web developer interested in building practical applications, improving user experiences, and exploring modern development tools.
+
+- 💻 **Backend:** PHP, CodeIgniter
+- 🎨 **Frontend:** JavaScript, React, Redux
+- 🗄️ **Database:** MySQL
+- 🔌 **Integration:** REST APIs
+- 🌱 **Learning:** Node.js and modern JavaScript
+- 🤝 **Interest:** Web projects and collaboration
+
+I enjoy solving development problems and continuously improving my skills through practical work.
 
 <br clear="right"/>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ═══════════════════ TECHNOLOGIES ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/TECH%20STACK-064e3b?style=flat-square" alt="Tech stack"/>
-
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,nodejs" alt="Backend technologies"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,bootstrap" alt="Frontend technologies"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma" alt="Development tools"/>
-</p>
-
----
-
-<!-- ===================== GITHUB STATISTICS ===================== -->
-
-## <img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-064e3b?style=flat-square" alt="GitHub analytics"/>
+## `02` — Technologies & Tools
 
 <div align="center">
 
-<a href="https://github.com/adarsh8921">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh8921&show_icons=true&hide_border=true&bg_color=020617&title_color=2EE59D&icon_color=2EE59D&text_color=cbd5e1&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/adarsh8921">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8921&layout=compact&hide_border=true&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&langs_count=8" alt="Most used programming languages"/>
-</a>
+**BACKEND**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql&theme=dark" alt="PHP, CodeIgniter and MySQL"/>
 
-<a href="https://github.com/adarsh8921">
-  <img width="78%" src="https://streak-stats.demolab.com?user=adarsh8921&theme=dark&hide_border=true&background=020617&ring=2EE59D&fire=10B981&currStreakLabel=2EE59D&sideLabels=cbd5e1&dates=94a3b8&mode=weekly" alt="GitHub contribution streak"/>
-</a>
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,bootstrap&theme=dark" alt="Frontend technologies"/>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-064e3b?style=flat-square" alt="Featured projects"/>
+## `03` — Selected Projects
 
 <div align="center">
 
 <a href="https://github.com/adarsh8921/Dergo_Website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=Dergo_Website&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&icon_color=10b981&hide_border=true" alt="Dergo Website"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=Dergo_Website&theme=transparent&hide_border=true&title_color=34d399&text_color=cbd5e1&icon_color=34d399" alt="Dergo Website project card"/>
 </a>
 <a href="https://github.com/adarsh8921/PORTFOLIO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=PORTFOLIO&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&icon_color=10b981&hide_border=true" alt="Portfolio"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=PORTFOLIO&theme=transparent&hide_border=true&title_color=34d399&text_color=cbd5e1&icon_color=34d399" alt="Portfolio project card"/>
 </a>
 
 <a href="https://github.com/adarsh8921/RAZAL_Portofolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=RAZAL_Portofolio&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&icon_color=10b981&hide_border=true" alt="Razal Portfolio"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=RAZAL_Portofolio&theme=transparent&hide_border=true&title_color=34d399&text_color=cbd5e1&icon_color=34d399" alt="Razal portfolio project card"/>
 </a>
 <a href="https://github.com/adarsh8921/sales">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=sales&bg_color=020617&title_color=2EE59D&text_color=cbd5e1&icon_color=10b981&hide_border=true" alt="Sales App"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adarsh8921&repo=sales&theme=transparent&hide_border=true&title_color=34d399&text_color=cbd5e1&icon_color=34d399" alt="Sales project card"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/adarsh8921?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-064e3b?style=for-the-badge&logo=github&logoColor=34d399" alt="View all projects"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/GITHUB%20ACHIEVEMENTS-064e3b?style=flat-square" alt="GitHub achievements"/>
+## `04` — GitHub Statistics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆_GitHub_Developer-Active_Coder-059669?style=for-the-badge&labelColor=020617" alt="GitHub Developer"/>
-<img src="https://img.shields.io/badge/🚀_Open_Source-Contributor-065f46?style=for-the-badge&labelColor=020617" alt="Open Source Contributor"/>
-<img src="https://img.shields.io/badge/💡_Problem_Solver-Code_Enthusiast-10b981?style=for-the-badge&labelColor=020617" alt="Problem Solver"/>
-<img src="https://img.shields.io/badge/🔥_Consistent_Coder-Daily_Commits-047857?style=for-the-badge&labelColor=020617" alt="Consistent Coder"/>
+<a href="https://github.com/adarsh8921">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adarsh8921&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/adarsh8921">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh8921&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=c9d1d9&langs_count=6" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/adarsh8921">
+  <img width="65%" src="https://streak-stats.demolab.com/?user=adarsh8921&theme=dark&hide_border=true&background=0d1117&ring=34d399&fire=10b981&currStreakLabel=34d399" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== CURRENT GOALS ===================== -->
+<!-- ═══════════════════ CONTRIBUTIONS ═══════════════════ -->
 
-## 🌱 Currently Learning
+## `05` — Contribution Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-163c26?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" alt="Node.js"/>
+<a href="https://github.com/adarsh8921">
+  <img width="100%" src="https://ghchart.rshah.org/34d399/adarsh8921" alt="GitHub contribution calendar"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
+<!-- ═══════════════════ LEARNING ═══════════════════ -->
 
-## 🤝 Let's Connect
+## `06` — Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React"/>
+<img src="https://img.shields.io/badge/Redux-Practice-764abc?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Node.js-Exploring-163c26?style=flat-square&logo=nodedotjs&logoColor=6da55f" alt="Node.js"/>
+<img src="https://img.shields.io/badge/JavaScript-Building-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+## `07` — Connect
 
 <div align="center">
 
@@ -153,15 +162,15 @@ Hey there! 👋 I'm **Adarsh KP**, a passionate web developer who loves building
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://fascinating-haupia-a87fea.netlify.app/">
-  <img src="https://img.shields.io/badge/My%20Portfolio-064e3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-064e3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-### 💚 Thanks for visiting my profile!
+**Thanks for stopping by!** 💚
 
-*Building today. Learning every day. Improving with every project.*
+*Keep building. Keep learning. Keep improving.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:064e3b,100:020617&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:10b981,50:064e3b,100:020617" alt="Emerald footer banner"/>
 
 </div>
