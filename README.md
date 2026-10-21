@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=064e3b" alt="Explore projects"/>
 </a>
 &nbsp;
-<a href="https://fascinating-haupia-a87fea.netlify.app/">
+<a href="https://portfolio-jade-nine-76.vercel.app/">
   <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=34d399&labelColor=020617" alt="Visit portfolio"/>
 </a>
 
